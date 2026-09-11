@@ -13,8 +13,8 @@ export default function Page() {
             Marine Street solves complexity for companies that touch real estate.
           </h1>
           <p className="hero-sub settle settle-3">
-            Real estate strategy, technology, and capital, for firms working out what a
-            changing market means for how they operate.
+            Real estate strategy, technology, and capital to help businesses navigate
+            change, solve complex problems, and build better ways to operate.
           </p>
           <a href="#contact" className="hero-cta settle settle-4">Let&apos;s Connect</a>
         </div>
@@ -128,8 +128,9 @@ export default function Page() {
         <div className="container">
           <p className="section-label">Principals</p>
           <p className="principals-lede">
-            Twenty years of institutional real estate experience, paired with the
-            engineering discipline to turn it into something a whole team can use.
+            As capital markets shift and technology reshapes how businesses operate,
+            Marine Street brings the investment judgment to set direction and the
+            engineering expertise to put it into practice.
           </p>
           <div className="principals-grid">
             <div>
@@ -146,12 +147,15 @@ export default function Page() {
                 </div>
               </div>
               <p className="principal-bio">
-                Jeremy spent twenty years inside institutional real estate before building
-                outside it. Managing Director at Rialto Capital Management, leading West
-                Coast investment strategy as the firm scaled past $20B in assets under
-                management, with more than $3 billion of transaction volume across debt and
-                equity. Earlier, J.P. Morgan and Macerich. He now works on what a company
-                should do about its real estate and how it actually gets done.
+                Jeremy helps companies navigate complex real estate decisions and put
+                strategy into practice. He brings twenty years of institutional investment
+                experience, spanning more than $3 billion in transactions across debt and
+                equity. As Managing Director at Rialto Capital Management, he led West
+                Coast investment strategy, following earlier roles at J.P. Morgan and
+                Macerich. At Marine Street, he works alongside owners and leadership teams
+                to make sense of shifting markets, identify opportunities to improve the
+                business, and develop practical solutions that connect real estate strategy,
+                technology, and day-to-day operations.
               </p>
               <p className="principal-meta">
                 Capital markets, portfolio strategy, and operating execution.{" "}
@@ -172,12 +176,13 @@ export default function Page() {
                 </div>
               </div>
               <p className="principal-bio">
-                Matt builds the systems that actually change the way teams work — reliable,
+                Matt builds the systems that actually change the way teams work—reliable,
                 intuitive, and intelligent. He led system architecture for platforms used
-                across numerous products, at the nexus of software and hardware. After years
-                in the smart-hardware startup space, Matt now works on embedding industry
-                expertise into scalable, intelligent software platforms that can plug into
-                any business.
+                across numerous products, at the nexus of software and hardware. Drawing
+                on years in the smart-hardware startup space, he helps businesses distinguish
+                what technology makes possible from what will actually prove useful. At
+                Marine Street, he embeds industry expertise into scalable, intelligent
+                software that fits how a business operates and expands what its teams can do.
               </p>
               <p className="principal-meta">
                 System architecture, data systems, infrastructure, tooling, and
