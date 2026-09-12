@@ -128,7 +128,6 @@ export default function Page() {
         <div className="container">
           <p className="section-label">Principals</p>
           <p className="principals-lede">
-            As capital markets shift and technology reshapes how businesses operate,
             Marine Street brings the investment judgment to set direction and the
             engineering expertise to put strategy into practice.
           </p>
@@ -152,10 +151,10 @@ export default function Page() {
                 experience, spanning more than $3 billion in transactions across debt and
                 equity. As Managing Director at Rialto Capital Management, he led West
                 Coast investment strategy, following earlier roles at J.P. Morgan and
-                Macerich. At Marine Street, he works alongside owners and leadership teams
-                to make sense of shifting markets, identify opportunities to improve the
-                business, and develop practical solutions that connect real estate strategy,
-                technology, and day-to-day operations.
+                Macerich. At Marine Street, he helps owners and leadership teams navigate
+                shifting markets and identify opportunities to improve the business. He
+                develops practical solutions that connect real estate strategy, technology,
+                and day-to-day operations.
               </p>
               <p className="principal-meta">
                 Capital markets, portfolio strategy, and operating execution.{" "}
