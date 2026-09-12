@@ -148,9 +148,9 @@ export default function Page() {
               <p className="principal-bio">
                 Jeremy helps companies navigate complex real estate decisions and put
                 strategy into practice. He brings twenty years of real estate experience,
-                including fourteen years of institutional investment expertise and more
-                than $3 billion in debt and equity transactions. As Managing Director at
-                Rialto Capital Management, he led West Coast investment strategy, following
+                including fourteen in institutional investing and more than $3 billion in
+                debt and equity transactions. As Managing Director at Rialto Capital
+                Management, he led West Coast investment strategy, following
                 earlier roles at J.P. Morgan and
                 Macerich. At Marine Street, he helps owners and leadership teams navigate
                 shifting markets and identify opportunities to improve the business. He
