@@ -13,8 +13,8 @@ export default function Page() {
             Marine Street solves complexity for companies that touch real estate.
           </h1>
           <p className="hero-sub settle settle-3">
-            Real estate strategy, technology, and capital to help businesses navigate
-            change, solve complex problems, and build better ways to operate.
+            Real estate strategy, technology, and capital, for companies that carry
+            real complexity without the team to handle it.
           </p>
           <a href="#contact" className="hero-cta settle settle-4">Let&apos;s Connect</a>
         </div>
