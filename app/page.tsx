@@ -158,7 +158,8 @@ export default function Page() {
                 and day-to-day operations.
               </p>
               <p className="principal-meta">
-                Capital markets, portfolio strategy, and operating execution.{" "}
+                Capital markets, portfolio strategy, and operating execution.
+                <br />
                 <strong>MBA, Columbia Business School.</strong>
               </p>
             </div>
