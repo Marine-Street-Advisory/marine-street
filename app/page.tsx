@@ -130,7 +130,7 @@ export default function Page() {
           <p className="principals-lede">
             As capital markets shift and technology reshapes how businesses operate,
             Marine Street brings the investment judgment to set direction and the
-            engineering expertise to put it into practice.
+            engineering expertise to put strategy into practice.
           </p>
           <div className="principals-grid">
             <div>
